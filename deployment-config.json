@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "172.18.24.38",
+    "username": "root",
+    "password": "N00tn00t",
+    "port": 22,
+    "remotePath": "/var/www/awesome",
+    "uploadOnSave": true
+}
